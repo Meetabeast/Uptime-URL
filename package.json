@@ -1,0 +1,18 @@
+{
+  "name": "url-uptime",
+  "version": "1.0.0",
+  "description": "This project helps to show if a URL is reachable or not",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Metabeast",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.3.4",
+    "chalk": "^4.1.2",
+    "cli-table": "^0.3.11"
+  }
+}
